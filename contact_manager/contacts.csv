@@ -1,0 +1,5 @@
+/*------------------------------------
+File: contacts.csv (sample)
+------------------------------------*/
+id,first_name,last_name,phone_number,email
+1,Taiwo,promise,09030289759,promisetaiwoola29@gmail.com
