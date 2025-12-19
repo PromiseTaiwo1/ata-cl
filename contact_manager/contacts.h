@@ -22,7 +22,9 @@ void update_contact_by_id(void);
 void delete_contact_by_id(void);
 
 
-#endif#ifndef CONTACTS_H
+#endif
+
+#ifndef CONTACTS_H
 #define CONTACTS_H
 
 #define MAX_CONTACTS 500
